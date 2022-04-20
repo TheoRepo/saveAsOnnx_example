@@ -1,4 +1,4 @@
-.resnet50v2/*
-imagenet-simple-labels.json
-logreg_iris.onnx
-resnet50v2.tar.gz
+resnet50v2/
+*.json
+*.onnx
+*.tar.gz
